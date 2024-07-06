@@ -6,7 +6,7 @@ A simple game implement in Golang with [Ebiten](hajimehoshi/ebiten) engine!
 
 I follow this guy [@codingwithsphere](https://www.youtube.com/@codingwithsphere) on Youtube.
 
-Shout out to @m1chaelwilliams!!
+Shout out to [@m1chaelwilliams](https://github.com/m1chaelwilliams) on GitHub!!
 
 And here is [the playlist](https://www.youtube.com/playlist?list=PLvN4CrYN-8i7xnODFyCMty6ossz4eW0Cn)!
 
