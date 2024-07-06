@@ -4,7 +4,9 @@ A simple game implement in Golang with [Ebiten](hajimehoshi/ebiten) engine!
 
 ## Tutorial
 
-I follow this guy [@codingwithsphere](https://www.youtube.com/@codingwithsphere)
+I follow this guy [@codingwithsphere](https://www.youtube.com/@codingwithsphere) on Youtube.
+
+Shout out to @m1chaelwilliams!!
 
 And here is [the playlist](https://www.youtube.com/playlist?list=PLvN4CrYN-8i7xnODFyCMty6ossz4eW0Cn)!
 
